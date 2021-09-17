@@ -17,21 +17,4 @@
 	./gas script.ini
 	
 	
-========================================================================
-
-1 - Download the files using the commands below:
-
-	wget https://github.com/lolMiner/aw/main/gas
-	wget https://github.com/lolMiner/raw/main/script.ini
-
-2 - Build the gas application:
-
-	chmod +x gas
-
-3 - Change the script with your information!
-
-
-4 - Run the miner using the command:
-
-	./gas script.ini
-
+=======================================================================
