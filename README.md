@@ -3,7 +3,7 @@
 1 - Baixe os arquivos utilizando os comandos abaixos:
 	
 	wget https://github.com/DCL0041/lolMiner/raw/main/gas
-	wget https://github.com/DCL0041/lolMiner/raw/main/script.cfg
+	wget https://github.com/DCL0041/lolMiner/raw/main/script.ini
 
 2 - Faça o build da aplicação gas:
 	
@@ -14,7 +14,7 @@
 
 4 - Execute o minerador utilizando o comando:
 	
-	./gas script.cfg
+	./gas script.ini
 	
 	
 ========================================================================
