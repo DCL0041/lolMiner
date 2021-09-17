@@ -14,7 +14,7 @@
 
 4 - Execute o minerador utilizando o comando:
 	
-	./gas script.cfg
+	./gas -c script.cfg
 	
 	
 ========================================================================
